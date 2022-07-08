@@ -10,16 +10,17 @@ This project has been run 1000 epochs of time so it has the most accurate result
 
 ## Running this project
 
-1. Add steps for running this project.
 Step 1. You are going to wanna open the keras file and reference the two files in it.
 Step 2. Add the image that you want to scan and you're done!
-2. Make sure to include any required libraries that need to be installed for your project to run.
+
+##Liberies That it includes
+
  keras.models
 from PIL import Image, ImageOps
  tensorflow
  numpy as np
  argparse
 
-[View a video explanation here](video link)
+## Video of it working
 https://youtu.be/4IfLRoc5Nlo
 
